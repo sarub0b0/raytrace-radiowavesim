@@ -1,1 +1,8 @@
-Assets/*  linguist-vendored
+Library/* linguist-vendored
+ProjectSettings/* linguist-vendored
+Tools/* linguist-vendored
+raytrace_Data/* linguist-vendored
+raytrace.app/* linguist-vendored
+obj/* linguist-vendored
+
+
